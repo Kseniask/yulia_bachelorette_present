@@ -106,7 +106,7 @@ function App () {
               ref={ref => (inputsRef.current[index] = ref)}
             />
           ) : (
-            ' '
+            <div>&nbsp;&nbsp;&nbsp;&nbsp;</div>
           )}
         </Col>
       ))

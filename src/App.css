@@ -26,6 +26,7 @@ h2 {
   flex-direction: row;
   flex-basis: content !important;
   flex-grow: unset !important;
+  margin: 10px -7px !important;
 }
 
 .buttons-container button {
