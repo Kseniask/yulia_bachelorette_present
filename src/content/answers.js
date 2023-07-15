@@ -17,22 +17,22 @@ export const Answers = [
   {
     word: 'false',
     question:
-      'Cool, you are walking on a first street. walk couple blocks away. You see the road splits and becomes boulevard? Good, you should turn left here. Is it Manitoba street?'
+      'Cool, you are walking on a first street. walk couple blocks away. You see the road splits and becomes boulevard? Good, you should turn left here. Is it Manitoba street that you turned to?'
   },
   {
     word: 'tacofino',
     question:
-      'Not the most beautiful street, but hey, we are going to have some dessert, it worth it. To the left side you can see the restoranto mexicano, but it actually comes from Tofino, it just serves mexical food. What is it called?'
+      'Not the most beautiful street, but hey, we are going to have some dessert, it worth it. To the left side you can see the place service mexican food. it actually comes from Tofino, and their tacos are deliciousness. What is it called?'
   },
   {
     word: 'celery',
     question:
-      'Getting tired of HAVING FUN? Ok, I got you, I promise, it is the last one. Let`s turn right and go for one block. you can see the company right across the Manitoba street: The second word reminds of some vegetable. Which vegetable are we talking about?'
+      'Getting tired of HAVING FUN? Ok, I got you, It is the last one. Let`s turn right and go for one block. you can see the company right across the Manitoba street: The second word reminds of some vegetable. Which vegetable are we talking about?'
   },
   {
     word: 'penis',
     question:
-      'Lesson one: TRUST NOBODY! We LIED, it wasn`t the last one. This one is. Let`s walk a bit more. Go down Manitoba Street until you see a park. Cross it diagonally and follow Columbia street until you bump into Est Broadway. ALMOST THERE! Turn right and find a place that has desserts. What is does dessert look like?'
+      'Lesson one: TRUST NOBODY! We LIED, it wasn`t the last one. This one is. Let`s walk a bit more. Go down Manitoba Street until you see a park. Cross it diagonally and follow Columbia street until you bump into East Broadway. ALMOST THERE! Turn right and find a place that has desserts. What is does dessert look like?'
   },
   {
     word: 'end',

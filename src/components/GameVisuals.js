@@ -123,8 +123,8 @@ const WordGuessGame = () => {
   return word ? (
     <Container className='mt-5'>
       <h2>{wordData.question}</h2>
-      <h3 class={wrongAnswer ? 'visible-error' : 'hide-element'}>NO</h3>
-      <h1 class={word === 'end' ? 'visible-emoji' : 'hide-element'}>
+      <h3 className={wrongAnswer ? 'visible-error' : 'hide-element'}>NO</h3>
+      <h1 className={word === 'end' ? 'visible-emoji' : 'hide-element'}>
         &#127814;
       </h1>
       <Row className='word-cubes'>{renderWordStatus()}</Row>
